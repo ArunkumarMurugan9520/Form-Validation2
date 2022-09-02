@@ -1,0 +1,29 @@
+.container{
+    background:  paleturquoise;
+    width: 12cm;
+    padding : 10px 20px;
+    border-radius: 10px;
+}
+/* label{
+    width: 140px;
+    display: inline-block;
+    margin: 0.2 cm;
+    font-size: 16px;
+    font-weight: bold;
+} */
+
+input{
+    padding: 4px;
+    margin:5px;
+    font-size: 15px;
+    border-radius: 10px;
+    border: 1px solid white;
+    width: 150px;
+}
+input#submit{
+    margin-top: 7px;
+    color: white;
+    font-weight: bold;
+    padding: 4px;
+    background-color: dodgerblue;
+}
